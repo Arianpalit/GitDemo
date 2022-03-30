@@ -1,0 +1,9 @@
+hello
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="w3url">https://www.w3schools.com/xml/note.xml</entry>
+    <entry key="scoreboard">http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard</entry>
+    <entry key="news">http://site.api.espn.com/apis/site/v2/sports/football/college-football/news</entry>
+    <entry key="treasury">https://www.treasurydirect.gov/xml/A_20080410_1.xml</entry>
+</properties>
